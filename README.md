@@ -9,6 +9,7 @@
 In today’s data-driven business environment, organizations rely heavily on analytics to make informed decisions. The retail industry, in particular, generates massive volumes of transactional data that can be leveraged to understand customer behavior, optimize operations, and increase profitability. This project, **“Super Store Sales Analysis using Power BI,”** focuses on transforming raw sales data into meaningful insights through interactive dashboards.
 
 The dataset used in this project contains detailed information about orders, including product categories, sales, quantity, shipping cost, customer regions, and order priorities. Using Power BI, this data has been visualized to identify key business trends and performance indicators.
+<img width="1654" height="799" alt="Screenshot 2026-01-30 112449" src="https://github.com/pradeepa156/super-store-sales-analysis/blob/main/Screenshot%202026-03-17%20120518.png" />
 
 ---
 
